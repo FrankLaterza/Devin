@@ -1,0 +1,8 @@
+{
+    "modList": ["-t", "-h"],
+    "introUrl": ["yoursite.com"],
+    "screenshotElements": ["element1", "element2"],
+    "successCheckElement": ["element1"],
+    "hideElement": ["element1"],
+    "help": ["This is the template script help modifier. Go to the command_info folder and find the file to change it."]
+}

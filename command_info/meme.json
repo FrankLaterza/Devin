@@ -1,0 +1,8 @@
+{
+    "modList": ["-h"],
+    "introUrl": ["yoursite.com"],
+    "screenshotElements": ["element1", "element2"],
+    "successCheckElement": ["element1"],
+    "hideElement": ["element1"],
+    "help": ["This command sends memes. There are no other modifiers"]
+}

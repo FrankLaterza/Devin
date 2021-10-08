@@ -1,0 +1,22 @@
+{
+    "prefix": "-",
+    "WhitelistUser": [],
+    "WhitelistChannel": [],
+    "Blacklist": [""],
+    "taskPool": [{
+            "sites": ["wiki"],
+            "sessionDir": "Session_Profiles/Andrew",
+            "proxy": {
+                "server": "255.255.255.255:4444"
+            }
+        },
+        {
+            "sites": ["wiki"],
+            "sessionDir": "Session_Profiles/Joel",
+            "proxy": {
+                "server": "255.255.255.255:4444"
+            }
+        }
+    ]
+
+}

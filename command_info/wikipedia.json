@@ -1,0 +1,8 @@
+{
+    "modList": ["-o", "-f", "-i", "-h"],
+    "introUrl": ["wikipedia.org/wiki"],
+    "screenshotElements": [".infobox", ".reflist"],
+    "successCheckElement": ["#mw-head"],
+    "hideElement": [".cbnnr-main"],
+    "help": ["Scrapes wikipida for data.\n`-o` to get a new answer\n`-f` to take a full screenshot\n`-i` to make request anonymous"]
+}
