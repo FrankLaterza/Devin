@@ -1,5 +1,5 @@
 {
-    "modList": ["-o", "-f", "-i", "-h"],
+    "modList": ["-o", "-f", "-i"],
     "introUrl": ["wikipedia.org/wiki"],
     "screenshotElements": [".infobox", ".reflist"],
     "successCheckElement": ["#mw-head"],

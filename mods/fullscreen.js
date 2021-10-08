@@ -6,6 +6,6 @@ module.exports = {
         console.log("full screenshot mod detected");
         modData.fullScreenshot = true;
 
-        return modData;;
+        return modData;
     },
 };

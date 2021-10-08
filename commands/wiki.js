@@ -27,7 +27,7 @@ module.exports = {
         // if there are more than 1 arguments then there is a modifeir in the args obj
         if (args.length > 1) {
             // to check mods include usual and also the JSON of your site
-            checkMods(args, wikiData, modData);
+            checkMods(args, wikiData, modData, wikiData);
         }
 
 
