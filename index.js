@@ -49,7 +49,7 @@ client.once('ready', () => {
 
 // login to Discord with your app's token
 // client.login(process.env.TOKEN);
-client.login(process.env.TOKEN2); // The token should be stored in your .env file
+client.login(process.env.TOKEN); // The token should be stored in your .env file
 
 // this will run when a message is sent in the server form visable channels
 client.on('message', message => {
